@@ -1,0 +1,11 @@
+{
+  "prohibited_claims": [
+    "drastically",
+    "boost productivity",
+    "save 90% time"
+  ],
+  "internal_names": [
+    "InternalSystemName",
+    "PrivateCodename"
+  ]
+}
